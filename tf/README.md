@@ -40,7 +40,7 @@ Allow group <group-name> to manage compartments in tenancy
 Current example in `terraform.tfvars`:
 
 ```hcl
-tenancy_ocid      = "your-tenancy-OCID"
+tenancy_ocid      = "tenancy-OCID"
 compartment_count = 100
 ```
 

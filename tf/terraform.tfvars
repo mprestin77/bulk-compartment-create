@@ -1,2 +1,2 @@
-tenancy_ocid      = "your-tenancy-OCID"
+tenancy_ocid      = "tenancy-OCID"
 compartment_count = 100
